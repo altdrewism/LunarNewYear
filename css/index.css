@@ -93,12 +93,12 @@ body {
 
 @media screen and (max-width: 410px) {
   .logo-container {
-    width: 25%;
+    width: 40%;
     bottom: 3vw;
     right: 3vw;
   }
   .tiger1-container {
-    width: 25%;
+    width: 40%;
     position: fixed;
     top: 3vw;
     left: 3vw;
